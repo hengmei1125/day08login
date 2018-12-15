@@ -12,3 +12,5 @@ class PageLogin(Base):
 
     def page_login_click(self):
         self.baes_click(page.loc_click)
+
+
